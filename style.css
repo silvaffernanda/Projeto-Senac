@@ -1,0 +1,29 @@
+header .logo img{
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+header ul{
+    margin-top: 15px;
+}
+
+header  ul li a {
+background-color: #ffbf3d;
+color: #fff;
+border-radius: 30px;
+margin: 5px;
+} 
+
+.procurados h2{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.imgrodape{
+    margin-top: 50px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
